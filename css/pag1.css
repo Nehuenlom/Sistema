@@ -1,0 +1,27 @@
+body {
+  background-color: blue;
+}
+h1{
+  font-family:fantasy;
+  text-align: center;
+}
+p {
+  font-family: cursive;
+  text-align: justify;
+  color: orange;
+}
+.inicio {
+  color: rgb(231, 226, 226);
+  text-align: left;
+}
+h3{
+  font-family: sans-serif;
+  color:orchid;
+}
+ol{
+  list-style-type: georgian;
+  font-style: italic;
+}
+.lista_cuad {
+  list-style-type: armenian;
+  font-style: oblique;
