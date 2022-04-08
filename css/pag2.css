@@ -4,14 +4,18 @@ body {
 #Interior {
   height: 300px;
   width: 1300px;
+  border: 5px solid chocolate;
 }
-.contenedor {
+.mercurio {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
   margin: 10px 0px 0px 0px;
   border: 2px dashed blue;
+  background-color: aqua;
+  font-family: fantasy;
+  text-align: center;
 }
 .venus {
   display: flex;
@@ -20,6 +24,9 @@ body {
   align-items: center;
   margin: 10px 0px 0px 0px;
   border: 2px solid black;
+  font-family: cursive;
+  text-align: justify;
+  background-color: rgb(145, 70, 70);
 }
 .tierra {
   display: flex;
@@ -27,7 +34,11 @@ body {
   justify-content: space-around;
   align-items: center;
   margin: 10px 0px 0px 0px;
-  border: 2px dotted orangered;
+  border: 2px dotted black;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-align: right;
+  color: black;
+  background-color: blue;
 }
 .marte {
   display: flex;
@@ -35,5 +46,9 @@ body {
   justify-content: space-around;
   align-items: center;
   margin: 10px 0px 0px 0px;
-  border: 2px double green;
+  border: 2px double red;
+  font-family: "Times New Roman", Times, serif;
+  text-align: left;
+  color: red;
+  background-color: rgb(100, 4, 4);
 }
