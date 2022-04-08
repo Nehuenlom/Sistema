@@ -1,3 +1,42 @@
 body {
   background-color: seagreen;
 }
+.principal {
+  border: 2px solid black;
+  margin: px px px px;
+  height: auto;
+  width: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: auto;
+  padding: 25px 2px 2px 2px;
+}
+.Jupiter {
+  background-color: greenyellow;
+  border: 2px solid black;
+  width: 300px;
+  margin: 5px;
+  padding: 5px;
+}
+.im {
+  width: 400px;
+  height: 300px;
+}
+.saturno {
+  background-color: silver;
+  margin: 5px;
+  padding: 5px;
+  border: 2px solid black;
+}
+.urano {
+  background-color: green;
+  border: 2px solid black;
+  margin: 5px;
+  padding: 5px;
+}
+.neptuno {
+  background-color: royalblue;
+  margin: 5px;
+  padding: 5px;
+  border: 2px solid black;
+}
