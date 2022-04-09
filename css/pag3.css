@@ -1,5 +1,5 @@
 body {
-  background-color: seagreen;
+  background-color: rgb(139, 117, 46);
 }
 .principal {
   border: 2px solid black;
@@ -54,4 +54,18 @@ span {
   color: black;
   text-decoration: none;
   margin: 10px 20px 10px 0px;
+}
+a:link {
+  color: blue;
+}
+a:visited {
+  color: rgb(226, 43, 43);
+}
+a:hover {
+  text-decoration: underline;
+  background-color: rgb(5, 0, 8);
+  color: white;
+}
+a:active {
+  background-color: rgb(131, 20, 20);
 }
